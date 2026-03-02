@@ -1,0 +1,8 @@
+host=port.dyn.acsc.land
+port=30898
+duration=20.0
+startup_wait=8.0
+send=''
+send_after=0.0
+send2=''
+start_ts=20260302_143239
